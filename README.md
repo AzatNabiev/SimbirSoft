@@ -1,6 +1,7 @@
 # SimbirSoft
 TestTask
 
+0. Открыть проект TestTask из папки SimbirSoftTestTask
 1. Подключить проект к бд. 
 2. В db.properties вписать все нужные поля.
 3. Сделать таблицу, как показано в Database Dump.txt

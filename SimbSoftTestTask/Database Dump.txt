@@ -1,0 +1,5 @@
+CREATE TABLE words(
+  id serial PRIMARY KEY ,
+  word_count varchar(255),
+  count integer
+);
