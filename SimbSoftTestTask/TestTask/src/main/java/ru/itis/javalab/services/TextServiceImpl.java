@@ -26,8 +26,4 @@ public class TextServiceImpl implements TextService {
     public List<Word> getAllWords() {
         return wordRepository.findAll();
     }
-
-    public void testMethod(){
-        System.out.println("test");
-    }
 }
